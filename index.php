@@ -1,10 +1,3 @@
-<!-- Operator Aritmatika -->
-<!-- 
-  - -
-  - +
-  - /
-  - *
- -->
 <?php 
 
   $angka1 = 12;

@@ -3,7 +3,7 @@
 $username = "admin";
 $password = "fathur";
 
-header("location: ")
+header("location: ");
 
 if ($username == "admin" && $password == "admin") {
     echo "username : " . $username;
